@@ -10,29 +10,26 @@ body {
 
 #cabecalho {
   background-color: black;
-  border-radius: 15px;  
+  border-radius: 15px;
   position: fixed;
   top: 0;
   width: 100%;
 }
 
 #titulo {
-    text-align: center;
+  color: white;
+  text-align: center;
 }
 
 nav {
-    background-color: black;
-    border-radius: 15px;
-    text-align: center;
+  background-color: black;
+  border-radius: 15px;
+  text-align: center;
          
 }
 
-#titulo {
-    color: white;
-}
-
 #foto {
-  margin-top: 300px;
+  margin-top: 125px;
   text-align: center;
 }
 
@@ -44,19 +41,14 @@ nav {
 #rodape {
   background-color: black;
   border-radius: 10px;
-  bottom: 0px;
+  bottom: 0;
   color: white;
   height: 100px;
   margin-top: 20px;
   text-align: center;
 }
 
-#rodape h3 {
-  padding: 1em 1em;
-  text-align: center;
-}
-
-h1, h2 , p , li, a {
+h1 , h2 , p , li , a {
   text-decoration: none;
   font-size: 1.25em;
   line-height: 40px;
@@ -73,13 +65,13 @@ h1, h2 , p , li, a {
 
 .lado-direito {
   border: thick black double;
-  display: inline-block;  
+  display: inline-block;
   margin-left: 4em;
   margin-right: 4em;
   width: 500px;
 }
 
-a:hover{
+a:hover {
   border-radius: 3px;
   background-color: purple;
   color: white;
