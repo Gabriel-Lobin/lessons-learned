@@ -7,7 +7,6 @@ body {
   background-color: rgb(253, 251, 251);
 }
 
-
 #cabecalho {
   background-color: black;
   border-radius: 15px;
@@ -33,9 +32,9 @@ nav {
 }
 
 #tabela {
-    border: thin black solid;
-    margin: 5em 500px;
-    padding: 1em;
+  border: thin black solid;
+  margin: 5em 500px;
+  padding: 1em;
 }
 
 #minha_foto {
