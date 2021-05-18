@@ -32,6 +32,12 @@ nav {
   text-align: center;
 }
 
+#tabela {
+    border: thin black solid;
+    margin: 5em 500px;
+    padding: 1em;
+}
+
 #minha_foto {
   border-radius: 10px;
   width: 200px;
